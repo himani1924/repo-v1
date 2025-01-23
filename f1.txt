@@ -1,2 +1,2 @@
-this is branch main.
+this is solution for merging branches main and himani.
 added some extra lines to file 1.
